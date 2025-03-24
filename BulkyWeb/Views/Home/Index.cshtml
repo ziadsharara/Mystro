@@ -1,8 +1,19 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Welcome to Our Online Bookstore";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4 animate__animated animate__fadeInDown">Welcome to Our Online Bookstore</h1>
+    <p class="lead animate__animated animate__fadeInUp">Discover a world of knowledge and adventure with our extensive collection of books.</p>
+    <a asp-controller="Category" asp-action="Index" class="btn btn-primary btn-lg animate__animated animate__fadeInUp">Browse Books</a>
 </div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<style>
+    .text-center {
+        margin-top: 50px;
+    }
+    .btn {
+        margin-top: 20px;
+    }
+</style>
