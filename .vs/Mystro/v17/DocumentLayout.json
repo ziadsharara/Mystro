@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Mystro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|d:\\projects\\mystro\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|d:\\projects\\mystro\\bulkyweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|d:\\projects\\mystro\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|d:\\projects\\mystro\\bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|solutionrelative:bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|d:\\projects\\mystro\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}|BulkyWeb\\MystroWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEB9A388-1709-48B7-8E3D-D756F5968984}|Mystro.DataAccess\\Mystro.DataAccess.csproj|d:\\projects\\mystro\\mystro.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB9A388-1709-48B7-8E3D-D756F5968984}|Mystro.DataAccess\\Mystro.DataAccess.csproj|solutionrelative:mystro.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}|Mystro.Utility\\Mystro.Utility.csproj|d:\\projects\\mystro\\mystro.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}|Mystro.Utility\\Mystro.Utility.csproj|solutionrelative:mystro.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,92 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T04:45:10.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T04:45:06.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T04:45:02.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T04:44:52.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Projects\\Mystro\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T04:44:38.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Mystro\\Mystro.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Mystro.DataAccess\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Projects\\Mystro\\Mystro.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Mystro.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T04:28:23.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SD.cs",
-              "DocumentMoniker": "D:\\Projects\\Mystro\\Mystro.Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Mystro.Utility\\SD.cs",
-              "ToolTip": "D:\\Projects\\Mystro\\Mystro.Utility\\SD.cs",
-              "RelativeToolTip": "Mystro.Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T04:27:34.887Z",
+              "WhenOpened": "2025-03-26T04:17:29.319Z",
               "EditorCaption": ""
             }
           ]

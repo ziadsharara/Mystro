@@ -7737,11 +7737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Mystro\\BulkyWeb\\MystroWeb.csproj",
-      "projectName": "MystroWeb",
-      "projectPath": "D:\\Projects\\Mystro\\BulkyWeb\\MystroWeb.csproj",
+      "projectUniqueName": "D:\\Projects\\Mystro\\Mystro\\Mystro.csproj",
+      "projectName": "Mystro",
+      "projectPath": "D:\\Projects\\Mystro\\Mystro\\Mystro.csproj",
       "packagesPath": "C:\\Users\\Eldeeb\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Mystro\\BulkyWeb\\obj\\",
+      "outputPath": "D:\\Projects\\Mystro\\Mystro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
