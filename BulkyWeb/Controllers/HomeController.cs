@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BulkyWeb.Models;
+using Mystro.Models.Models;
 
-namespace BulkyWeb.Controllers;
+namespace MystroWeb.Controllers;
 
 public class HomeController : Controller
 {

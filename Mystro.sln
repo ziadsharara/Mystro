@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MystroWeb", "BulkyWeb\MystroWeb.csproj", "{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystro.DataAccess", "Mystro.DataAccess\Mystro.DataAccess.csproj", "{EEB9A388-1709-48B7-8E3D-D756F5968984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystro.Models", "Mystro.Models\Mystro.Models.csproj", "{D98AC5BF-2A11-4A08-BB30-9C0596A1A3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystro.Utility", "Mystro.Utility\Mystro.Utility.csproj", "{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB9A388-1709-48B7-8E3D-D756F5968984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB9A388-1709-48B7-8E3D-D756F5968984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB9A388-1709-48B7-8E3D-D756F5968984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB9A388-1709-48B7-8E3D-D756F5968984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98AC5BF-2A11-4A08-BB30-9C0596A1A3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98AC5BF-2A11-4A08-BB30-9C0596A1A3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98AC5BF-2A11-4A08-BB30-9C0596A1A3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98AC5BF-2A11-4A08-BB30-9C0596A1A3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CAC3C3-C1DD-46AF-A38F-EFEFE3704ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FCAD68D-2BBF-4993-9F27-251040CEB461}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Projects\Mystro\Mystro.Utility\bin\Debug\net9.0\Mystro.Utility.deps.json
+D:\Projects\Mystro\Mystro.Utility\bin\Debug\net9.0\Mystro.Utility.dll
+D:\Projects\Mystro\Mystro.Utility\bin\Debug\net9.0\Mystro.Utility.pdb
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.AssemblyInfoInputs.cache
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.AssemblyInfo.cs
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.csproj.CoreCompileInputs.cache
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.sourcelink.json
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.dll
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\refint\Mystro.Utility.dll
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\Mystro.Utility.pdb
+D:\Projects\Mystro\Mystro.Utility\obj\Debug\net9.0\ref\Mystro.Utility.dll

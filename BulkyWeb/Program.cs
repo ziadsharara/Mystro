@@ -1,6 +1,6 @@
-using BulkyWeb.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Mystro.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
