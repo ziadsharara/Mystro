@@ -1,6 +1,6 @@
 # 📚 Mystro - Online Bookstore
 
-Welcome to **Mystro**, an advanced online bookstore designed to provide a seamless and engaging shopping experience for book lovers. Built using **ASP.NET Core**, **Entity Framework Core**, and **Razor Pages**, Mystro offers a modern, scalable, and efficient solution for managing books, users, and orders.
+Welcome to **Mystro**, an advanced online bookstore designed to provide a seamless and engaging shopping experience for book lovers. Built using **ASP.NET Core**, **Entity Framework Core**, and **MVC Architecture**, Mystro offers a modern, scalable, and efficient solution for managing books, users, and orders.
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to **Mystro**, an advanced online bookstore designed to provide a seamle
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Razor Pages, Bootstrap
+- **Frontend:** MVC, Bootstrap
 - **Backend:** ASP.NET Core, Entity Framework Core
 - **Database:** SQL Server
 - **Authentication:** ASP.NET Identity
