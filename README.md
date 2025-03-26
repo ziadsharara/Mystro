@@ -72,7 +72,8 @@ We welcome contributions! If you'd like to improve Mystro, feel free to fork the
 
 ## 💬 Contact
 
-📧 **Email:** ziadsharara@example.com  
+**Team Leader**
+📧 **Email:** ziadshararaa@gmail.com  
 🌍 **LinkedIn:** [linkedin.com/in/ziadsharara](https://linkedin.com/in/ziadsharara)  
 🚀 **Portfolio:** [ziadsharara.dev](https://ziadsharara.dev)
 
