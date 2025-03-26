@@ -47,12 +47,14 @@ Welcome to **Mystro**, an advanced online bookstore designed to provide a seamle
    ```
 5. Open `http://localhost:5000` in your browser.
 
+<!--
 ---
 
 ## 📸 Screenshots
 
 ![Homepage](https://via.placeholder.com/800x400)
 ![Admin Panel](https://via.placeholder.com/800x400)
+-->
 
 ---
 
@@ -68,14 +70,15 @@ Welcome to **Mystro**, an advanced online bookstore designed to provide a seamle
 
 We welcome contributions! If you'd like to improve Mystro, feel free to fork the repo and submit a pull request.
 
+<!--
 ---
 
 ## 💬 Contact
 
-**Team Leader**
-📧 **Email:** ziadshararaa@gmail.com  
+📧 **Email:** ziadsharara@example.com  
 🌍 **LinkedIn:** [linkedin.com/in/ziadsharara](https://linkedin.com/in/ziadsharara)  
 🚀 **Portfolio:** [ziadsharara.dev](https://ziadsharara.dev)
+-->
 
 ---
 
