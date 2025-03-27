@@ -1,4 +1,4 @@
-namespace Mystro.Models.Models
+namespace Mystro.Models
 {
     public class ErrorViewModel
     {

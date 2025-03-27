@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Mystro.DataAccess.Data;
 using Mystro.DataAccess.Repository.IRepository;
-using Mystro.Models.Models;
+using Mystro.Models;
 
 namespace Mystro.Areas.Admin.Controllers
 {

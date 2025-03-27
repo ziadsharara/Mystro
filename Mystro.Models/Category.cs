@@ -1,11 +1,12 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Mystro.Models.Models
+namespace Mystro.Models
 {
 	public class Category
 	{
 		// Primary key
+		[Key]
 		public int Id { get; set; }
 		[Required] // Not null
 		[MaxLength(30)] // Length Validation

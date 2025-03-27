@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Mystro.Models.Models;
+using Mystro.Models;
 
 namespace Mystro.Areas.Customer.Controllers;
 
