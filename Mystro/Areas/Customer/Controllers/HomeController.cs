@@ -2,8 +2,9 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Mystro.Models.Models;
 
-namespace MystroWeb.Controllers;
+namespace Mystro.Areas.Customer.Controllers;
 
+[Area("Customer")]
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;

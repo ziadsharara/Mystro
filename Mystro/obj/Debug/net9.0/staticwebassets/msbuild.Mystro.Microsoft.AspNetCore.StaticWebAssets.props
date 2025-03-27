@@ -1080,23 +1080,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Mystro.7srppeqz7e.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Mystro.nf6zljf4dm.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>Mystro</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Mystro</BasePath>
-      <RelativePath>Mystro.7srppeqz7e.bundle.scp.css</RelativePath>
+      <RelativePath>Mystro.nf6zljf4dm.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>7srppeqz7e</Fingerprint>
-      <Integrity>52kBmOhLbzMeJITz1Of8sUBdhIDaqAQExp4JlMmjZOw=</Integrity>
+      <Fingerprint>nf6zljf4dm</Fingerprint>
+      <Integrity>raNyEikRxQilxyQmO6oHOmyyGW7XMovab8oUMTfhQM4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Mystro.7srppeqz7e.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Mystro.nf6zljf4dm.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

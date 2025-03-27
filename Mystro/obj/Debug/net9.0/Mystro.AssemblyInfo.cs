@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mystro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdee4c2e27c7f7149415626151704e94186cf20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37fb02e5729545a1a861e05c266edd2bb31c125b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mystro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mystro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

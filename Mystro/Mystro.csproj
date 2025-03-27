@@ -7,6 +7,11 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <Content Include="Areas\Admin\Controllers\CategoryController.cs" />
+	  <Content Include="Areas\Customer\Controllers\HomeController.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.3" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.3">
@@ -20,6 +25,10 @@
 	  <ProjectReference Include="..\Mystro.DataAccess\Mystro.DataAccess.csproj" />
 	  <ProjectReference Include="..\Mystro.Models\Mystro.Models.csproj" />
 	  <ProjectReference Include="..\Mystro.Utility\Mystro.Utility.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Controllers\" />
 	</ItemGroup>
 
 </Project>

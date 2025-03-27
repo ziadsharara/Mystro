@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystrخ", "Mystro\Mystro.csproj", "{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystro", "Mystro\Mystro.csproj", "{A05D7384-E1C9-4283-B66F-F7EF1F8A8A70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystro.DataAccess", "Mystro.DataAccess\Mystro.DataAccess.csproj", "{EEB9A388-1709-48B7-8E3D-D756F5968984}"
 EndProject
