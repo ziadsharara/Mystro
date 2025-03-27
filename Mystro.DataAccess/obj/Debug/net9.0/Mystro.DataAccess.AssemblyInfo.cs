@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mystro.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58eddf3556e634fe12e76567f5882f985166000c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdee4c2e27c7f7149415626151704e94186cf20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mystro.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mystro.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,19 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Mystro.DataAccess.Data;
+using Mystro.DataAccess.Repository.IRepository;
 using Mystro.Models.Models;
 
 namespace MystroWeb.Controllers
 { 
   public class CategoryController : Controller
   {
-    private readonly ApplicationDbContext _db;
-		public CategoryController(ApplicationDbContext db)
+    private readonly ICategoryRepository _categoryRepo;
+		public CategoryController(ICategoryRepository db)
 		{
-      _db = db;
+			_categoryRepo = db;
 		}
 		public IActionResult Index()
     {
-      List<Category> objCategoryList = _db.Categories.ToList();
+      List<Category> objCategoryList = _categoryRepo.GetAll().ToList();
       return View(objCategoryList);
     } 
      // CRUD Opreations
@@ -35,8 +36,8 @@ namespace MystroWeb.Controllers
 			}
 			if (ModelState.IsValid) // check the validation
       {
-        _db.Categories.Add(obj); // to add to catergory table
-        _db.SaveChanges(); // (required line) to save changes in database
+				_categoryRepo.Add(obj); // to add to catergory table
+				_categoryRepo.Save(); // (required line) to save changes in database
 				TempData["success"] = "Category Created Successfully!";
 				return RedirectToAction("Index"); // to go to index view after submit the changes
 			}
@@ -52,7 +53,7 @@ namespace MystroWeb.Controllers
 				return NotFound();
 			}
 
-			Category? categoryFromDb = _db.Categories.FirstOrDefault(u => u.Id == id);
+			Category? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
 
 			if(categoryFromDb == null)
 			{
@@ -68,8 +69,8 @@ namespace MystroWeb.Controllers
 			
 			if (ModelState.IsValid) // check the validation
 			{
-				_db.Categories.Update(obj); // to update the catergory properties in database
-				_db.SaveChanges(); // (required line) to save changes in database 
+				_categoryRepo.Update(obj); // to update to catergory table
+				_categoryRepo.Save(); // (required line) to save changes in database
 				TempData["success"] = "Category Updated Successfully!";
 				return RedirectToAction("Index"); // to go to index view after submit the changes
 			}
@@ -85,7 +86,7 @@ namespace MystroWeb.Controllers
 				return NotFound();
 			}
 
-			Category? categoryFromDb = _db.Categories.FirstOrDefault(u => u.Id == id);
+			Category? categoryFromDb = _categoryRepo.Get(u => u.Id == id);
 
 			if (categoryFromDb == null)
 			{
@@ -98,13 +99,13 @@ namespace MystroWeb.Controllers
 		[HttpPost, ActionName("Delete")]
 		public IActionResult DeletePOST(int? id)
 		{
-			Category obj = _db.Categories.Find(id); 
-			if(obj == null)
+			Category obj = _categoryRepo.Get(u => u.Id == id);
+			if (obj == null)
 			{
 				return NotFound();
 			}
-			_db.Categories.Remove(obj);
-			_db.SaveChanges(); // (required line) to save changes in database 
+			_categoryRepo.Remove(obj);
+			_categoryRepo.Save(); // (required line) to save changes in database 
 			TempData["success"] = "Category Deleted Successfully!";
 			return RedirectToAction("Index"); // to go to index view after submit the changes
 		}
