@@ -33,7 +33,8 @@ namespace Mystro.DataAccess.Data
 					ListPrice = 99,
 					Price = 90,
 					Price50 = 85,
-					Price100 = 80
+					Price100 = 80,
+					CategoryId = 1
 				},
 				new Product
 				{
@@ -45,7 +46,8 @@ namespace Mystro.DataAccess.Data
 					ListPrice = 40,
 					Price = 30,
 					Price50 = 25,
-					Price100 = 20
+					Price100 = 20,
+					CategoryId = 1
 				},
 				new Product
 				{
@@ -57,7 +59,8 @@ namespace Mystro.DataAccess.Data
 					ListPrice = 55,
 					Price = 50,
 					Price50 = 45,
-					Price100 = 40
+					Price100 = 40,
+					CategoryId = 2
 				},
 				new Product
 				{
@@ -69,7 +72,8 @@ namespace Mystro.DataAccess.Data
 					ListPrice = 75,
 					Price = 65,
 					Price50 = 60,
-					Price100 = 55
+					Price100 = 55,
+					CategoryId = 2
 				},
 				new Product
 				{
@@ -81,7 +85,8 @@ namespace Mystro.DataAccess.Data
 					ListPrice = 85,
 					Price = 80,
 					Price50 = 75,
-					Price100 = 70
+					Price100 = 70,
+					CategoryId = 3
 				}
 			);
 		}
