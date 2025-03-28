@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mystro.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8d520154a3adef6286db3d27d991517baaf8ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f4d78b9d9f4500c1a6bb676ae2dd9532b4675f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mystro.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mystro.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
