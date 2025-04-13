@@ -1,5 +1,7 @@
 # 📚 Mystro - Online Bookstore
 
+> 🎓 **Graduation Project - Digital Egypt Pioneers Initiative (DEPI)**
+
 Welcome to **Mystro**, an advanced online bookstore designed to provide a seamless and engaging shopping experience for book lovers. Built using **ASP.NET Core**, **Entity Framework Core**, and **MVC Architecture**, Mystro offers a modern, scalable, and efficient solution for managing books, users, and orders.
 
 ---
